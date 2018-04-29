@@ -8,7 +8,7 @@ A catapult game, inspired by Angry Birds. The source code is not included.
 
 ## Getting Started
 
-Open this [link](https://rawgit.com/gimse/AngryMonster/master/RunGame.html). You can also download the repository and open run_game.html in you browser.
+Open this [link](https://rawgit.com/gimse/AngryMonster/master/RunGame.html). You can also download the repository and open RunGame.html in you browser.
 
 ## Authors
 
